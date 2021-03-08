@@ -1,29 +1,40 @@
 <div align="center">
 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Pieter Janse van Rensburg.
 
 -----
 
 ### ❓ About me
 
+![Views](https://views.whatilearened.today/views/github/pieter07/pieter07.svg) 
+
 I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My work revolves around solving problems in the insurance industry using advanced analytics and machine learning.
 
------
+<details>
+  <summary>
+    Programming Languages
+  </summary>
+  
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+  ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+  ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
+  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+  
+</details>
 
-### Programming Languages
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
-![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-
-
-### Technologies
+<details>
+  <summary>
+    Technologies
+  </summary>
+  
 ![CMake](https://img.shields.io/badge/-CMake-222222?style=flat&logo=cmake&logoColor=0000FF)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
@@ -36,9 +47,16 @@ I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My wor
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-222222?style=flat&logo=Tensorflow&logoColor=FF9933)
 
+</details>
 
-### 📈 Github Stats
+<details>
+  <summary>
+    📈 Github Stats
+  </summary>
+  
 <img align="center" alt="Pieter07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pieter07&show_icons=true&theme=dark&count_private=true" />
+
+</details>
 
 -----
 
