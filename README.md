@@ -28,9 +28,9 @@ I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My wor
 
 ![Apache](https://img.shields.io/badge/-Apache%20Spark-000000?style=flat&logo=Apache%20Spark&logoColor=FF6600)
 ![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=cmake&logoColor=0000FF)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=FF66CC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=FF66CC)
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=0000FF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
