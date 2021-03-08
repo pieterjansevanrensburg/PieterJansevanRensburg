@@ -11,7 +11,7 @@ I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My wor
 -----
 
 ### 📈 Github Stats
-<img align="center" alt="Pieter07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pieter07&show_icons=true&theme=dark" />
+<img align="center" alt="Pieter07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pieter07&show_icons=true&theme=dark&count_private=true" />
 <br />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieter07&count_private=true&theme=dark" alt="Pieter07" />
 <br />
