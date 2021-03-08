@@ -4,9 +4,9 @@
 
 -----
 
-### About me
+### ❓ About me
 
-I'm working at Momentum-Metropolitan, a top insurer in South Africa. My work revolves around solving problems in the insurance industry using advanced analytics and machine learning.
+I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My work revolves around solving problems in the insurance industry using advanced analytics and machine learning.
 
 -----
 
