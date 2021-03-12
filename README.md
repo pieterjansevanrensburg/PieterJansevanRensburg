@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0000FF)](https://za.linkedin.com/in/pieterjvr)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pieter07/)
+[![Dev](https://img.shields.io/badge/-Dev-000000?style=flat&logo=dev&logoColor=000000)](https://dev.to/pieter07/)
 
 I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My work revolves around solving problems in the insurance industry using advanced analytics and machine learning.
 
