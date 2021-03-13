@@ -6,7 +6,7 @@
 
 ### ❓ About me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0000FF)](https://za.linkedin.com/in/pieterjvr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=004d99)](https://za.linkedin.com/in/pieterjvr)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pieter07/)
 [![Dev](https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/pieter07/)
 
@@ -31,12 +31,13 @@ I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My wor
 
 ![AWS](https://img.shields.io/badge/AWS%20-000000?&style=flat&logo=amazon-aws&logoColor=ff8c1a)
 ![Apache](https://img.shields.io/badge/-Apache%20Spark-000000?style=flat&logo=Apache%20Spark&logoColor=FF6600)
-![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=cmake&logoColor=0000FF)
+![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=cmake&logoColor=004d99)
 ![Docker](https://img.shields.io/badge/docker%20-000000?&style=flat&logo=docker&logoColor=008ae6)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=FF66CC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=0000FF)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=1a8cff)
+![Keras](https://img.shields.io/badge/Keras%20-000000?&style=flat&logo=Keras&logoColor=FF5050)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![.Net](https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=5900b3)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
