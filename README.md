@@ -8,17 +8,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0000FF)](https://za.linkedin.com/in/pieterjvr)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pieter07/)
-[![Dev](https://img.shields.io/badge/-Dev-000000?style=flat&logo=dev&logoColor=000000)](https://dev.to/pieter07/)
+[![Dev](https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/pieter07/)
 
 I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My work revolves around solving problems in the insurance industry using advanced analytics and machine learning.
 
 ### 💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=0099FF)
+![C#](https://img.shields.io/badge/c%23%20-000000?&style=flat&logo=c-sharp&logoColor=5900b3)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=A6A6A6)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FF9933)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/node.js%20-000000?&style=flat&logo=node.js&logoColor=66cc00)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=0066FF)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=E67300)
@@ -27,13 +29,16 @@ I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My wor
   
 ### 🛠 Technologies
 
+![AWS](https://img.shields.io/badge/AWS%20-000000?&style=flat&logo=amazon-aws&logoColor=ff8c1a)
 ![Apache](https://img.shields.io/badge/-Apache%20Spark-000000?style=flat&logo=Apache%20Spark&logoColor=FF6600)
 ![CMake](https://img.shields.io/badge/-CMake-000000?style=flat&logo=cmake&logoColor=0000FF)
+![Docker](https://img.shields.io/badge/docker%20-000000?&style=flat&logo=docker&logoColor=008ae6)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=FF66CC)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=0000FF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![.Net](https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=5900b3)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=Pytorch&logoColor=FF5050)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
