@@ -20,7 +20,6 @@ I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My wor
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=A6A6A6)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FF9933)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/node.js%20-000000?&style=flat&logo=node.js&logoColor=66cc00)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=0066FF)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=E67300)
