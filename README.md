@@ -12,7 +12,7 @@
 
 I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My work revolves around solving problems in the insurance industry using advanced analytics and machine learning.
 
-### 💻 Programming Languages
+### 💻 Programming and Model Verification Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=0099FF)
 ![C#](https://img.shields.io/badge/c%23%20-000000?&style=flat&logo=c-sharp&logoColor=5900b3)
@@ -20,6 +20,7 @@ I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My wor
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=A6A6A6)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FF9933)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PROMELA](https://img.shields.io/badge/-Promela-000000?style=flat&logo=promela)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=0066FF)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=E67300)
