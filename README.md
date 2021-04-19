@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pieter07/)
 [![Dev](https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/pieter07/)
 
-I'm working at Momentum-Metropolitan, a top insurer 🏦 in South Africa. My work revolves around solving problems in the insurance industry using advanced analytics and machine learning.
+I work in the insurance industry 🏦 in South Africa. My work revolves around solving problems using advanced analytics and machine learning.
 
 ### 💻 Programming and Model Verification Languages
 
