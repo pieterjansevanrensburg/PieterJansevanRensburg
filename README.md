@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=004d99)](https://za.linkedin.com/in/pieterjvr)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pieter07/)
-[![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=github&logoColor=FFFFFF)](https://gitlab.com/Pieter07)
+[![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=FFFFFF)](https://gitlab.com/Pieter07)
 [![Dev](https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/pieter07/)
 
 I work in the insurance industry 🏦 in South Africa. My work revolves around solving problems using advanced analytics and machine learning.
